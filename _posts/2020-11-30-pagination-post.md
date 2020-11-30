@@ -3,7 +3,7 @@ layout: post
 title: How to make pagination
 date: 2019-11-30 00:00:00 +0000
 category: tutorial
-thumbnail: /style/image/thumbnail.png
+thumbnail: /style/image/pagination.jpg
 icon: book
 ---
 
