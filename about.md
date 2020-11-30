@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About site
+title: About me
 ---
 
 * content
@@ -8,4 +8,4 @@ title: About site
 
 ## Introduction
 
-name: Taewook Kim
+Taewook Kim
