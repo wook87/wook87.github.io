@@ -10,7 +10,7 @@ icon: book
 {:toc}
 * content
 
-## 페이지네이션을 만들어 보자
+## Make Pagination
 
 페이지네이션을 만들기 위해서는 아래 사항에 대해서 고려 해봐야 한다.
 
