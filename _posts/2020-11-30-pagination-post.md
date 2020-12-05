@@ -7,9 +7,8 @@ thumbnail: /style/image/pagination.jpg
 icon: book
 ---
 
-
-* content
 {:toc}
+* content
 
 ## 페이지네이션을 만들어 보자
 
