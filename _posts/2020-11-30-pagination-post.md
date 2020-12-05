@@ -7,10 +7,11 @@ thumbnail: /style/image/pagination.jpg
 icon: book
 ---
 
-{:toc}
-* content
 
-## Make Pagination
+* content
+{:toc}
+
+## 페이지네이션을 만들어 보자
 
 페이지네이션을 만들기 위해서는 아래 사항에 대해서 고려 해봐야 한다.
 
